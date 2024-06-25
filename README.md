@@ -22,6 +22,7 @@ Deployable Engines
 
 Simple Adjustable Fairings
 
+If you have BREAD installed, delete it. Some parts conflict with it
 
 Big thanks to: Maks @galopujacy_jez for the terran decals and Kochi @Kochi_BR for balancing the configs
 
